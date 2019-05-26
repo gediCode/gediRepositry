@@ -1,0 +1,2 @@
+# gediRepositry
+BaseRepository
